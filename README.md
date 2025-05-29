@@ -7,6 +7,9 @@
 
 📫 Reach me: ciyarose.crj@gmail.com | [LinkedIn](https://linkedin.com/in/ciyarosejoshy)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cloudgirl24&show_icons=true&theme=tokyonight)
+
+
 <!----
 📦 Building my skills with IBM Cloud, Kubernetes, and Terraform  
 🛠️ Current Project: Setting up CI/CD pipelines and monitoring stack  
